@@ -12,6 +12,6 @@ main() {
 
 ## Features and bugs
 
-Please file feature requests and bugs at the [issue tracker][tracker].
+Please file feature requests and bugs at the [issue tracker][google].
 
-[tracker]: http://example.com/issues/replaceme
+[google]: http://google.com.br
